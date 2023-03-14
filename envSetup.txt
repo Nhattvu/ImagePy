@@ -1,0 +1,7 @@
+#On Linux
+
+python3 -m venv .venv
+source env/bin/activate
+python3 -m pip install -r requirements.txt
+# run code, example with relative paths:
+"/home/oromis95/My Code/MediaSuite/ImgSuite/env/bin/python" "/home/oromis95/My Code/MediaSuite/ImgSuite/Source/main.py"

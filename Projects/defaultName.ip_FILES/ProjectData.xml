@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<Project name="defaultName">
+	<undoList>
+		<File name="./History/0.png"/>
+		<File name="./History/1.png"/>
+	</undoList>
+	<redoList>
+		<File name="./History/2.png"/>
+	</redoList>
+</Project>
